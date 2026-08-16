@@ -81,10 +81,9 @@ header .container {
 .logo-mark {
     width: 34px;
     height: 34px;
-    border-radius: 11px;
-    background:
-        radial-gradient(circle at 35% 22%, rgba(255, 255, 255, 0.95) 0 9%, transparent 10%),
-        linear-gradient(145deg, var(--water-mid), var(--water-deep));
+    flex: 0 0 34px;
+    border-radius: 8px;
+    background: url("icon.JPEG") center / cover no-repeat;
     box-shadow: 0 8px 18px rgba(107, 148, 224, 0.25);
 }
 
@@ -552,4 +551,3 @@ footer p {
         border-radius: 20px;
     }
 }
-
