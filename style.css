@@ -444,17 +444,13 @@ h1 {
     margin: 28px auto 0;
 }
 
-.support-card .mail-icon {
+.support-card .support-app-icon {
     width: 54px;
     height: 54px;
-    display: grid;
-    place-items: center;
     margin: 0 auto 16px;
-    color: white;
-    background: var(--water);
     border-radius: 18px;
-    font-size: 22px;
-    font-weight: 900;
+    object-fit: cover;
+    box-shadow: 0 8px 18px rgba(107, 148, 224, 0.25);
 }
 
 footer {
