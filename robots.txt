@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nikaprokudina.github.io/water_tracker_web/sitemap.xml
+
